@@ -1,8 +1,7 @@
 # Introduction
 
 - 👋 Hi, I’m @golfiantos
-- 👀 I’m interested in data science
-- 🌱 I’m currently learning data science
+- 👀 I’m interested and currently learning in data science
 - 💞️ I’m looking to collaborate on data science project
 - 📫 How to reach me: https://www.linkedin.com/in/hari-golfianto/
 
