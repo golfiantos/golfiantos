@@ -7,7 +7,7 @@
 
 | Project name              | Description                 | Libraries used                    |
 | :-------------------- | :--------------------- | :---------------------------|
-| Credit card scoring |     Preparing reports for the credit division of a bank. Determining the effect of a customer's marital status and the number of children sought on the probability of default in loan repayment.     |      *pandas, matplotlib.pyplot*         |
+| [Credit card scoring](https://github.com/golfiantos/projects/tree/main/02_credit_card_scoring "Credit card scoring") | Preparing reports for the credit division of a bank. Determining the effect of a customer's marital status and the number of children sought on the probability of default in loan repayment. | *pandas, matplotlib.pyplot* |
 
 <!---
 golfiantos/golfiantos is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
