@@ -33,7 +33,7 @@
 | 02 |  | .. | |
 | .. |  | ..| |
 
-Thank you for visiting .. 
+Thank you for visiting 
 
 <!---
 golfiantos/golfiantos is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
