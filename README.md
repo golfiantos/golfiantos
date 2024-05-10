@@ -16,7 +16,7 @@
 
 # 30-week code challenge 
 ## (Railway engineering/Rolling stock related)
-- I plan to commit to a 30-week code challenge. The objectives are consistent learning and improvement over an extended period, expanding networking, technology exploration, and problem-solving training.
+- I plan to commit to a 30-week code challenge. The objectives are consistent learning and improvement over an extended period, technology exploration, problem-solving training, and expanding networking
 - Instead of the common 30-day code challenge, I plan to undertake a 30-week code challenge due to my limitations.
 - Rules:
   - Code or work for a minimum of 4 hours per week.
