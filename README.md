@@ -21,7 +21,8 @@
 - Rules:
   - Code or work for a minimum of 4 hours per week.
   - Project outcomes will be adjusted to fit my constraints, mainly time-related.
-  - Project topics must be related to railway/rolling stock areas and may include machine learning, automation, and even CAE/CAD analysis tasks.
+  - Project topics must be related to railway/rolling stock areas and may include data analysis, machine learning, automation, and even CAE/CAD analysis tasks.
+  - Tools that I'll be mainly used: python & CAE/CAD software
 - Please reach out to me when you have a great idea (again, selected ideas will be adjusted to fit my limitations).
 - A tangible schedule is currently being prepared.
 - I hope this initiative will have a positive impact not only on myself but also on the railway industry.
