@@ -1,4 +1,4 @@
-# Introduction
+# 1. Introduction
 
 - 👋 Hi, I’m @golfiantos
 - 👷🏻‍♂️ I’m a mechanical engineer and also data science enthusiast
@@ -6,7 +6,7 @@
 - 📫 How to reach me: https://www.linkedin.com/in/hari-golfianto/
 - 📂 Here are some projects that I have done and been involved in.
 
-# Data science projects 
+# 2. Data science projects 
 | No. | Project name              | Description                 | Tools/libraries                    |
 | :- | :-------------------- | :--------------------- | :---------------------------|
 | 01 | [to be added](https://github.com/golfiantos/projects/tree/main/to_be_added "to be added") | to be added... | *pandas, matplotlib.pyplot* |
@@ -14,7 +14,7 @@
 | 03 | [Predicting telco client churn](https://github.com/golfiantos/projects/tree/main/03_predicting_client_churn "Predicting client churn") | A telecommunications operator offers landline communication and internet services to its clients. They are interested in forecasting churn among their clients. The goal is to identify potential churners and take proactive measures to retain them by analyzing their personal data, contract details, and service usage patterns. | *seaborn, plotly, sklearn (logistic regression, decision tree, random forest), smote, xgboost* |
 | .. |  | Upcoming project will be added here | |
 
-# 30-week code challenge 
+# 3. 30-week code challenge 
 ## (Railway engineering/Rolling stock related)
 - I plan to commit to a 30-week code challenge. The objectives are consistent learning and improvement over an extended period, technology exploration, problem-solving training, and expanding networking
 - Instead of the common 30-day code challenge, I plan to undertake a 30-week code challenge due to my limitations.
