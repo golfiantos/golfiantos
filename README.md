@@ -30,7 +30,7 @@
 
 | No. | Project name              | Description                 | Tools/libraries                    |
 | :- | :-------------------- | :--------------------- | :---------------------------|
-| 01 |  | ex: train performance curve simulation | |
+| 01 |  | ex: train diagram/curve simulation | |
 | 02 |  | .. | |
 | .. |  | ..| |
 
