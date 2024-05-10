@@ -1,8 +1,8 @@
 # Introduction
 
 - 👋 Hi, I’m @golfiantos
-- 👀 I’m a mechanical engineer and also data science enthusiast
-- 💞️ I’m looking to collaborate on any data science project
+- 👷🏻‍♂️ I’m a mechanical engineer and also data science enthusiast
+- 👀 I’m looking to collaborate on any data science project
 - 📫 How to reach me: https://www.linkedin.com/in/hari-golfianto/
 - 📂 Here are some projects that I have done and been involved in.
 
