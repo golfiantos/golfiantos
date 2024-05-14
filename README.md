@@ -1,12 +1,12 @@
-# 1. Introduction
+👋 Hi, I am Golfianto, a mechanical engineer with a passion for enhancing urban transportation systems through data-driven solutions. With four years of experience at PT. MRT Jakarta, I've led engineering efforts in ensuring project compliance and efficiency. Armed with a master's degree from Karlsruhe Institute of Technology, I possess strong analytical skills and proficiency in CAE/CAD and programming.
 
-- 👋 Hi, I’m @golfiantos
-- 👷🏻‍♂️ I’m a mechanical engineer and also data science enthusiast
+In my recent journey into data science, I've delved deep into Python, HTML5, SQL, and Machine/Deep learning, honing my expertise through hands-on projects and collaborative efforts. I'm driven by a desire to apply my diverse skill set to contribute meaningfully to the development and sustainability of urban infrastructure in Indonesia and beyond.
+
 - 👀 I’m looking to collaborate on any data science project
 - 📫 How to reach me: https://www.linkedin.com/in/hari-golfianto/
 - 📂 Here are some projects that I have done and been involved in.
 
-# 2. Data science projects 
+# Data science projects 
 | No. | Project name              | Description                 | Tools/libraries/methods                    |
 | :- | :-------------------- | :--------------------- | :---------------------------|
 | 01 | [Time series predictions](https://github.com/golfiantos/projects/tree/main/01_predicting_time_series "Predicting time series") | A transportation company has collected historical data on taxi orders at the airport. To attract more drivers during peak hours, it is necessary to predict the number of taxi orders for the next hour. A model for such prediction will be created. | *pandas, numpy, simple exponential smoothing, Holt, ARIMA, random forest regression* |
@@ -14,19 +14,21 @@
 | 03 | [Predicting telco client churn](https://github.com/golfiantos/projects/tree/main/03_predicting_client_churn "Predicting client churn") | A telecommunications operator offers landline communication and internet services to its clients. They are interested in forecasting churn among their clients. The goal is to identify potential churners and take proactive measures to retain them by analyzing their personal data, contract details, and service usage patterns. | *seaborn, plotly, sklearn (logistic regression, decision tree, random forest), smote, xgboost* |
 | .. |  | Upcoming project will be added here | |
 
-# 3. Thirty-week code challenge 
-## (Railway engineering/Rolling stock related)
-- I plan to commit to a 30-week code challenge. The objectives are consistent learning and improvement over an extended period, technology exploration, problem-solving training, and expanding networking
+# 30-week code challenge 
+## in Railway engineering/Rolling stock system
+- I plan to embark on a 30-week code challenge as a series of side projects related to railway engineering and rolling stock systems. The objectives include continuous learning, skill improvement, technology exploration, problem-solving training, and expanding my professional network.
+- Currently I am collecting project ideas and a tangible schedule is being prepared
 - Instead of the common 30-day code challenge, I plan to undertake a 30-week code challenge due to my limitations.
 - Rules:
-  - Code or work for a minimum of 4 hours per week.
-  - Project methods and outcomes will be adjusted to fit my constraints, including available time and knowledge.
-  - In total 8 - 10 projects will be commited
-  - Project topics must be related to railway/rolling stock areas and may include data analysis, machine learning, automation, and even CAE/CAD analysis tasks.
-  - Tools that I'll be mainly used: python & CAE/CAD software
-- Please reach out to me when you have a great idea (again, selected ideas will be adjusted to fit my limitations).
-- A tangible schedule is currently being prepared.
-- I hope this initiative will have a positive impact not only on myself but also on the railway industry.
+  - Projects should be small to medium scale in scope.
+  - Allocate a minimum of 4 hours per week to coding or project work.
+  - Adjust project methods and outcomes to accommodate constraints such as available time and knowledge.
+  - Commit to completing 6 to 8 projects in total.
+  - Project topics must be related to railway/rolling stock areas and may involve data analysis, machine learning, automation, and CAE/CAD analysis tasks.
+  - Primary tools utilized will be Python and CAE/CAD software.
+  - Updates will be shared through GitHub
+- Please reach out to me with any great project ideas related to railway engineering and rolling stock systems. Selected ideas will be adjusted to fit my limitations.
+- I believe this initiative has the potential to not only enhance my skills and knowledge but also contribute positively to advancements within the railway industry.
 - Additionally, I am open to collaboration opportunities.
 
 | No. | Project name              | Description                 | Tools/libraries                    |
