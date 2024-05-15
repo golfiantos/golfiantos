@@ -16,9 +16,7 @@ In my recent journey into data science, I've delved deep into Python, HTML5, SQL
 
 # 30-week code challenge 
 ## in Railway engineering/Rolling stock system
-- I plan to embark on a 30-week code challenge as a series of side projects related to railway engineering and rolling stock systems. The objectives include continuous learning, skill improvement, technology exploration, problem-solving training, and expanding my professional network.
-- Currently I am collecting project ideas and a tangible schedule is being prepared
-- Instead of the common 30-day code challenge, I plan to undertake a 30-week code challenge due to my limitations.
+- Hi, I plan to embark on a 30-Weeks of Code Challenge as a series of side projects related to railway engineering and rolling stock systems. The objectives include continuous learning, skill improvement, technology exploration, problem-solving training, and expanding my professional network. Currently I am collecting project ideas, and I am preparing a tangible schedule. Instead of the common 30-day code challenge, I plan to undertake a 30-weeks due to my routines.
 - Rules:
   - Projects should be small to medium scale in scope.
   - Allocate a minimum of 4 hours per week to coding or project work.
