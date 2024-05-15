@@ -27,15 +27,20 @@ In my recent journey into data science, I've delved deep into Python, HTML5, SQL
   - Project topics must be related to railway/rolling stock areas and may involve data analysis, machine learning, automation, and CAE/CAD analysis tasks.
   - Primary tools utilized will be Python and CAE/CAD software.
   - Updates will be shared through GitHub
-- Please reach out to me with any great project ideas related to railway engineering and rolling stock systems. Selected ideas will be adjusted to fit my limitations.
+- Please reach out to me with any great project ideas related to railway engineering and rolling stock systems. Selected (3 to 4) ideas will be adjusted to fit my limitations.
 - I believe this initiative has the potential to not only enhance my skills and knowledge but also contribute positively to advancements within the railway industry.
 - Additionally, I am open to collaboration opportunities.
 
-| No. | Project name              | Description                 | Tools/libraries                    |
-| :- | :-------------------- | :--------------------- | :---------------------------|
-| 01 |  | ex: train diagram/curve simulation | |
-| 02 |  | .. | |
-| .. |  | ..| |
+| No. | Project name              | Description                 | Tools/libraries                    |             Deadline                   |            Status                   |
+| :- | :-------------------- | :--------------------- | :---------------------------|   :---------------------------| :---------------------------|
+| 01 | Time/speed curve simulation  | ex: train diagram/curve simulation | python, excel | W1 July 2024 | - |
+| 02 |  | ..                                 | CAD           | W4 July 2024 | - |
+| 03 |  | ..                                 |            | W4 Aug 2024 | - |
+| 04 |  | ..                                 |            | W4 Sep 2024 | - |
+| 05 |  | ..                                 |            | W4 Oct 2024 | - |
+| 06 |  | ..                                 |            | W4 Nov 2024 | - |
+| 07 |  | ..                                 |            | W4 Dec 2024 | - |
+| .. |  | ..                                 | ..           | .. | - |
 
 Thank you for visiting 
 
