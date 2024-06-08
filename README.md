@@ -31,9 +31,9 @@ In my recent journey into data science, I've delved deep into Python, HTML5, SQL
 
 | No. | Project name              | Description                 | Tools/libraries                    |             Deadline                   |            Status                   |
 | :- | :-------------------- | :--------------------- | :---------------------------|   :---------------------------| :---------------------------|
-| 01 | Time/speed curve simulation  | ex: train diagram/curve simulation | python, excel | W1 July 2024 | - |
-| 02 |  | ..                                 | CAD           | W4 July 2024 | - |
-| 03 |  | ..                                 |            | W4 Aug 2024 | - |
+| 01 | Single train simulation  | This project is a simulation of a single train moving along a predefined track. The simulation is designed to demonstrate the basic principles of train dynamics and control systems, providing a visual and interactive way to explore how a train operates under various conditions. | python, numpy | W1 July 2024 | DONE in W2 June, will be improved |
+| 02 | Report automation in railway | This project automates the generation of reports for train procurement forecasts using data analysis and forecasting techniques. It streamlines the procurement planning process, ensuring timely and efficient procurement of trains. The system handles various procurement data, generates insightful forecasts, and produces comprehensive reports to support decision-making | python | W4 July 2024 | - |
+| 03 | Computer vision: Object detection in railway | ..                                 |           | W4 Aug 2024 | - |
 | 04 |  | ..                                 |            | W4 Sep 2024 | - |
 | 05 |  | ..                                 |            | W4 Oct 2024 | - |
 | 06 |  | ..                                 |            | W4 Nov 2024 | - |
