@@ -21,7 +21,7 @@ In my recent journey into data science, I've delved deep into Python, HTML5, SQL
   - Projects should be small to medium scale in scope.
   - Allocate a minimum of 4 hours per week to coding or project work.
   - Adjust project methods and outcomes to accommodate constraints such as available time and knowledge.
-  - Commit to completing 6 to 8 projects in total.
+  - Commit to completing 2 to 4 projects in total.
   - Project topics must be related to railway/rolling stock areas and may involve data analysis, machine learning, automation, and CAE/CAD analysis tasks.
   - Primary tools utilized will be Python and CAE/CAD software.
   - Updates will be shared through GitHub
@@ -34,11 +34,7 @@ In my recent journey into data science, I've delved deep into Python, HTML5, SQL
 | 01 | [Single train simulation](https://github.com/golfiantos/golfiantos/tree/main/30WCC_01_train_simulation "Single train simulation") | This project is a simulation of a single train moving along a predefined track. The simulation is designed to demonstrate the basic principles of train dynamics and control systems, providing a visual and interactive way to explore how a train operates under various conditions. | python, numpy | W1 July 2024 | DONE in W2 June, will be improved |
 | 02 | Report automation in railway | This project automates the generation of reports for train procurement forecasts using data analysis and forecasting techniques. It streamlines the procurement planning process, ensuring timely and efficient procurement of trains. The system handles various procurement data, generates insightful forecasts, and produces comprehensive reports to support decision-making | python | W4 July 2024 | Done in W4 Aug 2024, project example: please visit my linkedin |
 | 03 | Computer vision: Object detection in railway | ..                                 |           | W4 Aug 2024 | - |
-| 04 | Wheel rail contact | ..                                 | FEA           | W4 Sep 2024 | - |
-| 05 | Impact simulation | ..                                 |            | W4 Oct 2024 | - |
-| 06 |  | ..                                 |            | W4 Nov 2024 | - |
-| 07 |  | ..                                 |            | W4 Dec 2024 | - |
-| .. |  | ..                                 | ..           | .. | - |
+
 
 Thank you for visiting 
 
